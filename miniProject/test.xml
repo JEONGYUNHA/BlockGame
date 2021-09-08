@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<BlockGame>
+<Screen>
+<Size w="774" h="556"></Size>
+</Screen>
+<GamePanel>
+<Bg>C:\Users\user\Desktop\gametest\20160210_164429.jpg</Bg>
+<Block>
+<Obj x="364" y="75" w="50" h="30" ></Obj>
+<Obj x="279" y="130" w="50" h="30" ></Obj>
+<Obj x="348" y="28" w="50" h="30" ></Obj>
+<Obj x="279" y="73" w="50" h="30" ></Obj>
+<Obj x="168" y="72" w="50" h="30" img="C:\Users\user\Desktop\gametest\1.PNG" ></Obj>
+<Obj x="177" y="123" w="50" h="30" ></Obj>
+<Obj x="256" y="33" w="50" h="30" ></Obj>
+<Obj x="405" y="132" w="50" h="30" ></Obj>
+</Block>
+</GamePanel>
+</BlockGame>

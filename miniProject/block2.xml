@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="euc-kr" ?> 
+<BlockGame>
+<Screen>
+	<Size w="750" h="800"></Size>
+</Screen>
+<GamePanel>
+	<Bg>Desert.png</Bg>
+	<Block>
+		<Obj x="10" y="10" w="80" h="80" type="1" img="ch.png"></Obj>
+		<Obj  x="70" y="10" w="80" h="80" type="2" img="ch.png"/>
+		<Obj  x="130" y="10" w="80" h="80" type="3"  img="ch.png" />
+		<Obj x="10" y="50" w="80" h="80" type="1" img="ch.png"></Obj>
+		<Obj  x="70" y="50" w="80" h="80" type="2" img="ch.png"/>
+		<Obj  x="130" y="50" w="80" h="80" type="3"  img="ch.png" />
+		<Obj  x="250" y="500" w="100" h="150" type="3"  img="apeach.png" />
+	</Block>
+</GamePanel>
+</BlockGame>
